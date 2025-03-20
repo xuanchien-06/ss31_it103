@@ -1,0 +1,21 @@
+.account{
+    padding: 10px;
+    /* font-size: 20px; */
+    border: 2px solid black;
+    width: 444px;
+    height: 298px;
+}
+
+.account label{
+    font-size: 30px;
+}
+
+.account input{
+    font-size: 25px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.account button{
+    font-size: 25px;
+}

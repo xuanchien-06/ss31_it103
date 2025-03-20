@@ -1,29 +1,29 @@
-#container{
-    background-color: white;
-    color: black;
-    width: 200px;
-    height: 150px;
-    border: 2px solid black ;
+#container {
+  background-color: white;
+  color: black;
+  width: 200px;
+  height: 150px;
+  border: 2px solid black;
 }
 
-#mau{
-    display: flex;
-    flex-direction: row;
-    gap: 10px;
+#mau {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
 }
 
-#mau #xanh{
-    width: 50px;
-    height: 50px;
-    background-color: green;
+#mau #xanh {
+  width: 50px;
+  height: 50px;
+  background-color: green;
 }
-#mau #do{
-    width: 50px;
-    height: 50px;
-    background-color: red;
+#mau #do {
+  width: 50px;
+  height: 50px;
+  background-color: red;
 }
-#mau #tim{
-    width: 50px;
-    height: 50px;
-    background-color: plum;
+#mau #tim {
+  width: 50px;
+  height: 50px;
+  background-color: plum;
 }
