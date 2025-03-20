@@ -1,0 +1,29 @@
+#container{
+    background-color: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+    height: 164px;
+    width: 602px;
+}   
+#container #modal{
+    border: 0px solid;
+    width: 400px;
+    height: 60px;
+    background-color: white;
+    border-radius: 5px;
+    display:block;
+    flex-direction: row;
+    /* text-align: center; */
+    justify-content: center;
+    align-items: center; 
+   margin-left: 95px;
+}
+
+#modal p{
+   margin:0;
+}
+#modal #close{
+    margin: 0;
+    padding: 0;
+}

@@ -1,0 +1,9 @@
+#tieude {
+  border: 2px solid black; /* Đường viền xung quanh bảng */
+}
+
+#tieude th,
+#tieude td {
+  border: 1px solid black;
+  padding: 8px;
+}
